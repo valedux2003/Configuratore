@@ -1,4 +1,4 @@
-Site;Layer LTE;LTE detail;CelleLTE_Configurate;Admnistrative_State;Baseband 5216;Baseband 6620;Baseband 6630;Baseband R503;Presenza Baseband;DUS3101;DUS3102;DUS4101;DUS4102;Presenza DUS;#Radio;#RRU;#RU;BB/DU Presenti;0
+Site;Layer LTE;LTE detail;CelleLTE_Configurate;Admnistrative_State;Baseband 5216;Baseband 6620;Baseband 6630;Baseband R503;Presenza Baseband;DUS3101;DUS3102;DUS4101;DUS4102;Presenza DUS;#Radio;#RRU;#RU;BB/DU Presenti;
 AGE1;1;L18;3;3;;;1;;#1 Baseband 6630;;;;;;3;;;BB6630;
 AL01;1;L18;2;2;;;1;;#1 Baseband 6630;;;;;;2;;;BB6630;
 AL02;3;L8L18L26;9;9;;;;;;;;1;1;#1 DUS4101 #1 DUS4102;;12;;DUS41;
